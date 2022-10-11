@@ -5,7 +5,7 @@ Population Projections, Total and by Sex, Race and Age (County-level in United S
 
 - Race: Hispanic, White NH(non-hispanic), Black NH(non-hispanic) and other
 
-- Age: 
+- Age: 0-4, 5-9, 10-14....., 80-84, 85+ (every 4-year)
 
 - Time periods: 2020-2100
 
